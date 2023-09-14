@@ -2,39 +2,39 @@
 
 Inspired by : https://arxiv.org/pdf/2308.07926v1.pdf
 
-
 1.
-![CoDeF-A-Novel-Video-Representation_page-0001](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/641d857b-2cd3-4fb9-b1a4-03a991c18735)
+![CoDeF-A-Novel-Video-Representation_page-0001](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/eb13e94e-5ac6-4f32-b3e3-e1b718a6a26d)
 2.
-  ![CoDeF-A-Novel-Video-Representation_page-0002](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/3db54f95-a049-42f2-9545-45cd98a9f13b)
+![CoDeF-A-Novel-Video-Representation_page-0002](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/8c40b20d-2701-4b8f-99f7-e28939742b9d)
 3.
-  ![CoDeF-A-Novel-Video-Representation_page-0003](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/35ead2f2-05ca-4b4a-a37e-6eb7758e8d48)
+![CoDeF-A-Novel-Video-Representation_page-0003](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/68a8fdd9-b1c1-4045-8ad0-9a311eced54f)
 4.
-  ![CoDeF-A-Novel-Video-Representation_page-0004](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/59a9bd86-b0dd-46b6-b733-898763b5b90f)
+![CoDeF-A-Novel-Video-Representation_page-0004](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/fab8b4c6-832a-4e5e-8884-33ca6945168d)
 5.
-  ![CoDeF-A-Novel-Video-Representation_page-0005](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/f7186b0c-6cea-41f2-a66e-906063340e32)
+![CoDeF-A-Novel-Video-Representation_page-0005](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/59e9b1cf-a46d-47bf-9fad-cb39ab830c88)
 6.
-  ![CoDeF-A-Novel-Video-Representation_page-0006](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/9e55567c-1385-4531-aacd-1a06893409e9)
+![CoDeF-A-Novel-Video-Representation_page-0006](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/5034db5b-0ce5-4dbb-be7b-8ca58ffa2d08)
 7.
-  ![CoDeF-A-Novel-Video-Representation_page-0007](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/c175cfce-624f-4172-86f8-f477e7530078)
+![CoDeF-A-Novel-Video-Representation_page-0007](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/026df46a-1103-49d3-bdb5-d6dd75dd47e5)
 8.
-  ![CoDeF-A-Novel-Video-Representation_page-0008](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/0c5c94eb-a8e4-4ce2-bc13-8aa9504bcd0c)
+![CoDeF-A-Novel-Video-Representation_page-0008](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/6965a0ed-d757-4bc7-9087-cff7def3c8b7)
 9.
-  ![CoDeF-A-Novel-Video-Representation_page-0009](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/f9285b6e-bb58-4557-b5b4-30c33c28efb7)
+![CoDeF-A-Novel-Video-Representation_page-0009](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/b424a6b9-679c-42d2-b7d0-eee96a128ad2)
 10.
-  ![CoDeF-A-Novel-Video-Representation_page-0010](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/1f2a3f9b-55e6-429a-9c18-2bb823cdd308)
+![CoDeF-A-Novel-Video-Representation_page-0010](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/b13c5640-39b1-4382-93a3-edd4b4af46f8)
 11.
-   ![CoDeF-A-Novel-Video-Representation_page-0011](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/a59b4a61-6c71-411a-acf0-4548049b6a83)
+![CoDeF-A-Novel-Video-Representation_page-0011](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/f3a1a350-aa6e-4329-abb9-2ea5aab93990)
 12.
-   ![CoDeF-A-Novel-Video-Representation_page-0012](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/b5dd13f8-edb2-441a-805c-15f6f3af3695)
+![CoDeF-A-Novel-Video-Representation_page-0012](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/fe85b4ef-607a-4507-bfbb-254b122d3db5)
 13.
-   ![CoDeF-A-Novel-Video-Representation_page-0013](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/faf7497f-315c-4a97-bc0b-697dfa06b754)
+![CoDeF-A-Novel-Video-Representation_page-0013](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/3ea2a0d2-c084-4beb-8874-0d321ab574ca)
 14.
-   ![CoDeF-A-Novel-Video-Representation_page-0014](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/613a155f-c2b5-4a9e-91f6-54eaf9c6462b)
+![CoDeF-A-Novel-Video-Representation_page-0014](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/8a44915d-3080-4297-aa89-7084fa2aeaca)
 15.
-   ![CoDeF-A-Novel-Video-Representation_page-0015](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/b1ff8c95-671f-46f4-a599-b26f06e8bb94)
+![CoDeF-A-Novel-Video-Representation_page-0015](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/54bd66c8-61cf-401c-bad7-4808f2f45c2d)
 16.
-   ![CoDeF-A-Novel-Video-Representation_page-0016](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/ec00c53a-c360-4bff-9423-1ef96914ac37)
+![CoDeF-A-Novel-Video-Representation_page-0016](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/03c21eb7-dd01-4b16-8329-71ce94854b7b)
 17.
-   ![CoDeF-A-Novel-Video-Representation_page-0017](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/30ddc3f0-d7c1-420e-8c2e-b92cc512e25d)
+![CoDeF-A-Novel-Video-Representation_page-0017](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/373e5594-c425-462a-9f39-25b09658d66d)
+
 
