@@ -1,6 +1,6 @@
 # CoDeF
 
-Inspired by : https://arxiv.org/pdf/2308.07926v1.pdf
+
 
 1.
 ![CoDeF-A-Novel-Video-Representation_page-0001](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/eb13e94e-5ac6-4f32-b3e3-e1b718a6a26d)
@@ -37,4 +37,4 @@ Inspired by : https://arxiv.org/pdf/2308.07926v1.pdf
 17.
 ![CoDeF-A-Novel-Video-Representation_page-0017](https://github.com/Rakib-data-scientist/CoDeF/assets/137823730/373e5594-c425-462a-9f39-25b09658d66d)
 
-
+* Inspired by : https://arxiv.org/pdf/2308.07926v1.pdf
